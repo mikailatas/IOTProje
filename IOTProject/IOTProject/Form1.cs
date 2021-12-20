@@ -16,6 +16,7 @@ namespace IOTProject
         {
             InitializeComponent();
             // Burak tarafından yazıldı.
+            // Mikail tarafından yazıldı.
         }
 
     }
