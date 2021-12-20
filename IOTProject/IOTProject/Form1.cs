@@ -15,6 +15,7 @@ namespace IOTProject
         public Form1()
         {
             InitializeComponent();
+            // Burak tarafından yazıldı.
         }
 
     }
